@@ -1,0 +1,32 @@
+.header{
+	min-height: 100px;
+	background-color: red;
+}
+.wrapper{
+	
+}
+.single{
+	min-height: 150px;
+	border: 3px solid cyan;
+	width: 24.1%;
+	float:left;
+}
+
+.yellow{
+background-color: yellow;
+}
+.blue{
+	background-color: blue;
+}
+.green{
+	background-color: green;
+}
+.brown{
+background-color: brown;
+}
+
+.footer{
+	min-height: 100px;
+background-color: black;
+clear: both;
+}
